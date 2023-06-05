@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gunjan Verma
-- 👀 I’m interested in DSA, App development
+- 👀 I’m interested in App Development
 - 🌱 Currently pursuing MCA from IGDTUW
 
 <!---
